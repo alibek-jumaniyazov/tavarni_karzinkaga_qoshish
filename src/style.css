@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 300px;
+}
+.jad{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
